@@ -7,6 +7,13 @@
 
 ## Javascript
 #### You Dont Konw JS - kyle Simpson
+- Up & Going
+- Scope & Closures
+- This & Object Prototypes
+- Type & Grammar
+- Async & Performance
+- ES6 & Beyond
+
 
 # Back Develop
 
