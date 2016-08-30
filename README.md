@@ -19,6 +19,7 @@
 ## Express
 
 ## React
+#### Pro React - Cassio de Sousa Antonio
 
 ## Database
 ## Backbone
