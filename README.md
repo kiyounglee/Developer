@@ -7,8 +7,8 @@
 ## Javascript
 - You Dont Konw JS - kyle Simpson
 
--- Up & Going
--- Scope & Closures
+> Up & Going
+> Scope & Closures
 -- this & Object Prototypes
 -- Type & Grammar
 -- Async & Performance
