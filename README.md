@@ -7,11 +7,11 @@
 ## Javascript
 - You Dont Konw JS - kyle Simpson
   - Up & Going
-    Scope & Closures
-    this & Object Prototypes
-    Type & Grammar
-   Async & Performance
-   ES6 & Beyond
+  - Scope & Closures
+  - this & Object Prototypes
+  - Type & Grammar
+  - Async & Performance
+  - ES6 & Beyond
 
 ## Bootstrap
 *******************************************************
