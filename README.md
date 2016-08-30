@@ -7,7 +7,7 @@
 ## Javascript
 - You Dont Konw JS - kyle Simpson
 
-    Up & Going
+  - Up & Going
     Scope & Closures
     this & Object Prototypes
     Type & Grammar
