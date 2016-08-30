@@ -2,10 +2,10 @@
 
 ## CSS
 
--The Missing Manual 4th - David McFarland
+- The Missing Manual 4th - David McFarland
 
 ## Javascript
--You Dont Konw JS - kyle Simpson
+- You Dont Konw JS - kyle Simpson
 Up & Going
 Scope & Closures
 this & Object Prototypes
@@ -19,7 +19,7 @@ ES6 & Beyond
 ## Express
 
 ## React
--Pro React - Cassio de Sousa Antonio
+- Pro React - Cassio de Sousa Antonio
 
 ## Database
 ## Backbone
