@@ -1,8 +1,8 @@
 # Front Develop
-
 ## Html5
 
 ## CSS
+
 #### The Missing Manual 4th - David McFarland
 
 ## Javascript
@@ -17,11 +17,10 @@
 ## Bootstrap
 
 # Back Develop
-
 ## Node
 ## Express
 
-# React
+## React
 
 ## Database
 ## Backbone
