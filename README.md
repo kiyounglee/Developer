@@ -15,12 +15,22 @@
 
 ## Bootstrap
 - Getting started
+  - Introduction
+  - Download
+  - Contents
+  - Browers & Devices
+  - Javascript
+  - Options
+  - Flexbox
+  - Buildtools
+  - Best pratices
+  - Accessibility
 - Layout
 - Content
 - Components
 - About
 - Migration
-***
+
 ## Node
 ## Express
 
