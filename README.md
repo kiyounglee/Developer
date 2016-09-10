@@ -14,6 +14,12 @@
   - ES6 & Beyond
 
 ## Bootstrap
+- Getting started
+- Layout
+- Content
+- Components
+- About
+- Migration
 ***
 ## Node
 ## Express
