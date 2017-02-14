@@ -3,16 +3,14 @@
 - CSS
 - Bootstrap
 - Design
+- AJAX
+- HTTP
 
 ## Backend Develop
 - Node
 - Express
 - Hosting
 - CouchDB
-
-## Network Develop
-- AJAX
-- HTTP
 
 ## Workhorse
 - Javascript
