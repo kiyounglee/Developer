@@ -19,7 +19,6 @@
 - React
 
 ## Miscellany
-- Git
-- GitHub
+- Git & GitHub
 
 
