@@ -1,26 +1,25 @@
-## Html
-> why there is no text..in this line...
+## Frontend Develop
+- HTML
+- CSS
+
+## Backend Develop
+- Node
+- Express
+- Hosting
+
+## Database Develop
+- 
+
+## Network Develop
+- AJAX
+- HTTP
+
+## Workhorse
+- Javascript
+- React
+
+## Miscellany
+- Git
+- GitHub
 
 
-## Bootstrap
-## CSS
-- The Missing Manual 4th - David McFarland
-
-## Javascript
-- You Dont Konw JS - kyle Simpson
- >>> can i make webserver??
-   
-   
-## Bootstrap
-
-## Node
-## Express
-
-## React
-- Pro React - Cassio de Sousa Antonio
-
-## Database
-## Backbone
-
----
-what is problem...
