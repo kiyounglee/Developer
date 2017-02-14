@@ -8,8 +8,6 @@
 - Node
 - Express
 - Hosting
-
-## Database Develop
 - CouchDB
 
 ## Network Develop
