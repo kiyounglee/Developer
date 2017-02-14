@@ -1,10 +1,8 @@
 ## Frontend Develop
 - HTML
-- CSS
-- Bootstrap
+- CSS / Bootstrap
 - Design
-- AJAX
-- HTTP
+- HTTP/ AJAX
 
 ## Backend Develop
 - Node
@@ -17,6 +15,6 @@
 - React
 
 ## Miscellany
-- Git & GitHub
+- Git / GitHub
 
 
