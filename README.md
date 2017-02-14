@@ -1,6 +1,7 @@
 ## Frontend Develop
 - HTML
 - CSS
+- Bootstrap
 
 ## Backend Develop
 - Node
