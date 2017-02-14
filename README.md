@@ -2,6 +2,7 @@
 - HTML
 - CSS
 - Bootstrap
+- Design
 
 ## Backend Develop
 - Node
