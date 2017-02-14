@@ -12,7 +12,7 @@
   - Type & Grammar
   - Async & Performance
   - ES6 & Beyond
-
+    중요하다
 ## Bootstrap
 - Getting started
   - Introduction
