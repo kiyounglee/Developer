@@ -13,7 +13,7 @@
   - Async & Performance
   - ES6 & Beyond
    .
-   
+   
    
 ## Bootstrap
 - Getting started
@@ -42,4 +42,4 @@
 ## Database
 ## Backbone
 
- ..  ...
+>  
